@@ -1,0 +1,12 @@
+{
+  "short_name": "ServiceWorker",
+  "name": "Offline Experience",
+  "icons": [
+    {
+      "src": "launcher-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+}
